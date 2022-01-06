@@ -137,11 +137,12 @@ int main()
 
 
 # 图片
-\!\[alt 图片的替代文字\]\(图片的地址\)
-![alt RUNOOB](http://static.runoob.com/images/runoob-logo.png)
+\!\[图片的替代文字\]\(图片的地址\)
+![RUNOOB](http://static.runoob.com/images/runoob-logo.png)
 可以使用img标签来显示图片，因为markdown无法调整图片的大小
+![RUNOOB](MyRecord.assets/runoob-logo.png)
 <img src="MyRecord.assets/runoob-logo.png" width="50%">
-
+很奇怪不知道为什么，使用obsidian以后无法显示img标签，但是typora可以显示
 
 
 # 表格
@@ -158,5 +159,21 @@ int main()
 |:----|----:|:----:|
 |单元格|单元格|单元格|
 
-
-
+# 支持的一些HTML元素
+`<kbd> <b> <i> <em> <sup> <sub> <br>`
+比如使用<kbd>Ctrl</kbd>+<kbd>shift</kbd>+<kbd>Del</kbd>打开任务管理器
+还有一转义符-反斜杠\\，以下字符都需要使用转义符+字符才能正常显示
+```
+\   反斜线 
+`   反引号
+*   星号
+_   下划线
+{}  花括号
+[]  方括号
+()  小括号
+#   井字号
++   加号
+-   减号
+.   英文句点
+!   感叹号
+```

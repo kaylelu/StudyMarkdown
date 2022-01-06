@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "8ecdd4bc219345c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f54fcb59e135eab6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MyRecord.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61652f6650316831",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c9e9afbba87c495",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6715ca0fb5dc66a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "30d4725a23f6cf91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5d6bf304f60d683",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b052d42ae136d3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d72a55108b61c490",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MyRecord.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f54fcb59e135eab6",
+  "lastOpenFiles": [
+    "MyRecord.md",
+    "README.md",
+    "MyRecord.assets/我的头像.png",
+    "MyRecord.assets/runoob-logo.png"
+  ]
+}
